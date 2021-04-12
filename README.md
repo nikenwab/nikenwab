@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Nathan Kenwabikise!
-- 👀 I’m interested in Android/iOS Dev, Game Dev, and really pretty much anything!
+- 👀 I’m interested in Android/iOS Dev, Game Dev, Art, and really pretty much anything!
 - 🌱 I’m currently learning Python, Typescript/JS, AI, and then some...
 - 💞️ I’m looking to collaborate on Data Manipulation/Analysis programs, Game dev projects, location-based Apps, and name anything else really.
 - 📫 How to reach me: Discord NaterBater#8880
