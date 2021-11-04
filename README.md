@@ -1,6 +1,9 @@
 Hello, I’m Nathan Kenwabikise!
+
 I’m interested in Android/iOS Development, Game Development, Art, and really pretty much anything!
+
 I’m currently learning Python, Typescript/JS, C#, AI, and then some...
+
 Discord: NaterBater#8880
 
 <!---
